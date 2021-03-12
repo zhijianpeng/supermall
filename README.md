@@ -1,4 +1,4 @@
-# supermallapp
+# mall
 
 ## Project setup
 ```
